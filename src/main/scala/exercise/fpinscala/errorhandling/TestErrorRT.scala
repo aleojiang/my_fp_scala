@@ -1,4 +1,4 @@
-package exercise.handlerror
+package exercise.fpinscala.errorhandling
 
 /**
   * Created by: patrick.jiang@activenetwork.com 

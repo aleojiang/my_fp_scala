@@ -37,7 +37,7 @@ object ContravarianceTest extends App {
   printMyCat(catPrinter)
   printMyCat(animalPrinter)
 
-  printMyAnimal(catPrinter)
+//  printMyAnimal(catPrinter)
   printMyAnimal(animalPrinter)
 
 }
